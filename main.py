@@ -7,3 +7,6 @@ def experimental():
 
 def new_feature():
     print('dev dev')
+
+def new():
+    print('new')
